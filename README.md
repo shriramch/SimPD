@@ -8,3 +8,5 @@ This repository contains the code and results for an agent-based model (ABM) exp
 ### File Structure
 - ```ipd.ipynb```: This Jupyter Notebook file contains the code for the agent-based model, detailing the implementation of the IPD with strategies, strategy-switching mechanisms, and networks, and a simulator class to run a simulation based on parameters.
 - ```results``` folder: This folder contains the results of five experiments as found in the source code.
+- ```SimPD - Presentation```: Link to PDF of presentation slides. Contains link to Google slides if you would like to view animations.
+- ```SimPD - Report```: Link to PDF of report.
